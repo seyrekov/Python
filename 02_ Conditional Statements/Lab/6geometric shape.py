@@ -19,3 +19,4 @@ elif shape == "triangle":
 else:
     print("Invalid shape")  # print an error message if the input is not valid
     exit()
+print('{:.3f}'.format(area))
